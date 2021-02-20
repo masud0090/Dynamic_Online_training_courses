@@ -1,0 +1,254 @@
+.soca .dropdown {
+  position: relative;
+  padding-bottom: 0px;
+  display: inline-block;
+  margin: 7px 0px 0px 0px;
+}
+
+/* registration*/
+
+.reg-area {
+  background-color: #f5f5f5;
+  border-radius: 4px;
+  padding-top: 40px;
+}
+
+.reg-field {
+  background-color: #fff;
+  /* margin: 0px 0px 40px 0px; */
+  border-bottom: 2px solid #e0e0e0;
+}
+
+.reg-area h1 {
+  color: #b1097c;
+  font-size: 24px;
+  font-weight: 600;
+  margin: 0;
+  padding: 40px 40px 0px 40px;
+}
+
+.reg-area .reg-header p {
+  font-size: 16px;
+  padding-top: 6px;
+  padding: 5px 40px 30px 40px;
+  border-bottom: 1px dashed #bdbdbd;
+  margin-bottom: 20px;
+}
+
+.mainfild {
+  background-color: #fff;
+  padding: 30px;
+}
+
+/* h4 {
+    font-size: 16px;
+    color: #212121;
+    padding-left: 0px;
+    font-weight: 500;
+} */
+
+.reg-field input,
+.reg-field select {
+  border-radius: 4px;
+  border: 1px solid #e0e0e0;
+  box-shadow: none;
+  margin-bottom: 6px;
+}
+
+.reg-field textarea {
+  width: 100%;
+  border-radius: 4px;
+  height: 150px;
+  border: 1px solid #e0e0e0;
+  box-shadow: none;
+}
+
+.reg-field .label-area {
+  height: 150px;
+  overflow: auto;
+  width: 100%;
+  border: 1px solid #e0e0e0;
+  border-radius: 4px;
+  padding-top: 10px;
+}
+
+.reg-field label {
+  height: 20px;
+}
+
+.reg-field label input {
+  float: left;
+}
+
+.reg-field label span {
+  float: left;
+  margin-top: 2px;
+  margin-left: 4px;
+}
+
+.reg-field .note-area {
+  padding-top: 20px;
+  margin-bottom: 10px;
+}
+
+.reg-field .note-area input {
+  float: left;
+  margin-right: 6px;
+  height: auto;
+}
+
+.reg-field .note-area p {
+  padding: 2px 0px 0px 0px;
+  border: none;
+  margin: 0;
+  font-size: 16px;
+}
+
+.reg-field h2 {
+  font-size: 16px;
+  font-weight: bold;
+  margin: 20px 0px 0px 0px;
+  padding: 0;
+}
+
+.features-area,
+.help-area {
+  padding: 25px;
+  background-color: #fff;
+  border-bottom: 2px solid #e0e0e0;
+  margin-bottom: 20px;
+  border-radius: 2px;
+}
+
+.features-area ul {
+  margin: 0;
+  padding: 0;
+}
+
+.features-area ul li {
+  list-style: none;
+  margin-bottom: 20px;
+  min-height: 60px;
+}
+
+.features-area ul li img {
+  float: left;
+  margin-right: 10px;
+}
+
+.features-area ul li p {
+  text-align: left;
+  padding-top: 10px;
+}
+
+.help-area h2 {
+  font-size: 18px;
+  font-weight: 600;
+  margin: 0;
+  padding: 0;
+}
+
+.help-area p {
+  padding-top: 15px;
+  line-height: 18px;
+}
+
+.phone-number {
+  color: #e43f23;
+  font-weight: bold;
+  font-size: 16px;
+  margin: 15px 0px 0px 0px;
+}
+
+.email-address {
+  color: #0e73a9;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+/*login*/
+
+.tsin.dropdown a {
+  background: #43a047;
+  margin: 0px 10px 0px 15px;
+  border: 1px solid #43a047;
+  padding: 5px 12px 5px 12px;
+  color: #ffffff;
+  text-decoration: none;
+  border-radius: 4px;
+}
+
+.tsin.dropdown a:hover,
+.tsin.dropdown a:focus {
+  background-color: #39873d;
+  border: 1px solid #39873d;
+  color: #fff;
+}
+
+/* signup */
+
+#register_form h1 {
+  text-align: center;
+}
+
+body {
+  background: #a9d9c3;
+}
+
+#register_form {
+  width: 37%;
+  margin: 100px auto;
+  padding-bottom: 30px;
+  border: 1px solid #918274;
+  border-radius: 5px;
+  background: white;
+}
+
+#register_form input {
+  width: 80%;
+  height: 35px;
+  margin: 5px 10%;
+  font-size: 1.1em;
+  padding: 4px;
+  font-size: 0.9em;
+}
+
+.form_error span {
+  width: 80%;
+  height: 35px;
+  margin: 3px 10%;
+  font-size: 1.1em;
+  color: #d83d5a;
+}
+
+.form_error input {
+  border: 1px solid #d83d5a;
+}
+
+#reg_btn {
+  height: 35px;
+  width: 80%;
+  margin: 5px 10%;
+  color: white;
+  background: #3b5998;
+  border: none;
+  border-radius: 5px;
+}
+
+.ulc-container {
+  right: 0;
+  text-align: left;
+  padding: 20px;
+  min-width: 240px;
+}
+
+.row .nigar {
+  width: 10px;
+}
+
+.center {
+  max-width: 500px;
+  margin: auto;
+  background: white;
+  padding: 10px;
+}
